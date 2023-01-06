@@ -3,8 +3,7 @@
     "name": "bloodborneProperties", 
     "title": "Bloodborne Properties",
     "description": "Adds bloodborne weapon properties",
-    "version": "0.2", 
-    "author": "goldenfriend",
+    "version": "0.2",
     "authors": [
         {
             "name": "goldenfriend"
@@ -13,8 +12,8 @@
     "relationships": {
         "systems": ["dnd5e"]
     },
-    "styles": [], 
-    "scripts": ["bloodborneProperties.js"], 
+    "scripts": ["bloodborneProperties.js"],
+    "url": "https://github.com/goldenfriend/Bloodborne_Module",
     "manifest": "https://raw.githubusercontent.com/goldenfriend/Bloodborne_Module/main/module.json", 
     "download": "https://github.com/goldenfriend/Bloodborne_Module/releases/download/build/Bloodborne_Module.zip", 
     "compatibility": {
